@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Agoric"
 
-sub_ecosystems = ["ZKValidator"]
+sub_ecosystems = ["ZKValidator", "Lari Finance"]
 
 github_organizations = ["https://github.com/Agoric"]
 
